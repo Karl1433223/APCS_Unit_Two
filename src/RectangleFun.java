@@ -10,6 +10,7 @@ public class RectangleFun {
         // Get input for x, y, width, and height. Create four separate variables for these.
 
 
+
         // Create a Rectangle object using the four pieces of user input.
 
 
