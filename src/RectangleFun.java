@@ -9,12 +9,10 @@ public class RectangleFun {
 
         // Get input for x, y, width, and height. Create four separate variables for these.
 
-
-
-        // Create a Rectangle object using the four pieces of user input.
-
-
-        // Use the appropriate methods (getWidth() and getHeight() ) to calculate the perimeter, then print it
+        System.out.println("Enter the X");
+        System.out.println("Enter the Y");
+        System.out.println("Enter the width");
+        System.out.println("Enter the height");
 
         // Use getX(), getY(), and setLocation() to move the Rectangle. Print the new location.
 

@@ -9,11 +9,11 @@ public class FightSong {
      */
     public static void goTeam() {
         // Add any print statements you think should go in this method.
-        ("Go team gp");
+
         System.out.println("You can do it");
-        ("You can do it");
+
         System.out.println("Go, team, go");
-        ("Go, team, go)
+
         System.out.println("You can do it");
 
         System.out.println("You're the best");
