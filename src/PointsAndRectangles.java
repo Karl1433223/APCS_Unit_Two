@@ -19,7 +19,12 @@ public class PointsAndRectangles
         System.out.println("Enter the width");
         int width = kb.nextInt();
         //Instantiate a Point object p. Hint: you will need the keyword "new"
-
+        Point A = new Point (X, Y);
+        Dimension squar = new Dimension(length, width);
+        Rectangle location = new Rectangle(A, squar);
+        System.out.println(A);
+        System.out.println(squar);
+        System.out.println(location);
 
         // create print statements and get input for the length and width
 

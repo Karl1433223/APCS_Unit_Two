@@ -9,21 +9,30 @@ public class FightSong {
      */
     public static void goTeam() {
         // Add any print statements you think should go in this method.
+    System.out.println("Go, team, go!");
+    System.out.println("You can do it.");
 
-        System.out.println("You can do it");
 
-        System.out.println("Go, team, go");
 
-        System.out.println("You can do it");
 
-        System.out.println("You're the best");
-        System.out.println("In the West");
-        System.out.println("GO, team, go");
-        System.out.println("You cna do it");
-        System.out.println();
+
+    }
+
+    public static void space() {
+        System.out.println("");
+
     }
 
 
+
+    public static void youRe() {
+        System.out.println("You're the best,");
+        System.out.println("In the West.");
+
+
+
+
+    }
 
 
 
@@ -35,6 +44,17 @@ public class FightSong {
 
     public static void main(String[] args) {
         // No print statements should be in here, only method calls.
-
+    goTeam();
+    space();
+    goTeam();
+    youRe();
+    goTeam();
+    space();
+    goTeam();
+    youRe();
+    goTeam();
+    space();
+    goTeam();
     }
+
 }
